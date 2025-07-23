@@ -22,11 +22,5 @@ A Flutter application that displays the latest top headlines using the [NewsAPI]
 - Flutter SDK (Recommended: Flutter 3.19 or above)
 - A valid API key from [NewsAPI.org](https://newsapi.org/)
 
-### 📥 Installation Steps
 
-1. **Clone the Repository**
-
-```bash
-git clone https://github.com/your-username/flutter-news-app.git
-cd flutter-news-app
 
